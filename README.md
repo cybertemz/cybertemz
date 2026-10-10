@@ -41,23 +41,31 @@ I believe in learning by doing, documenting my progress, and continuously improv
 
 ⸻
 
-🧰 TOOLS & TECHNOLOGIES
+---
 
-🔎 SIEM & Security Monitoring
+## 🧰 TOOLS & TECHNOLOGIES
 
-<p>
-<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logoColor=white" alt="Wazuh"/>
-<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Sentinel"/>
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
-<img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic Stack"/>
-</p>
-
-🌐 Network Security
+### 🛡️ SIEM & Security Monitoring
 
 <p>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/TCP%2FIP-Networking-0A66C2?style=for-the-badge" alt="TCP/IP Networking"/>
+<img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge" alt="Wazuh"/>
 </p>
+
+### 💻 Operating Systems
+
+<p>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+</p>
+
+### 🖥️ Virtualization
+
+<p>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
+</p>
+
+---
 
 💻 Operating Systems & Virtualization
 
