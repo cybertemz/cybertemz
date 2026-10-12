@@ -3,7 +3,7 @@
 
 > Turning security data into actionable insights for a safer digital world.
 
-Hello! I'm **Eyinnisan Favour**, also known as **Cybertemz**. A Junior SOC Analyst from Nigeria passionate about threat detection and incident response.
+Hello! I'm **Eyinmisan Favour**, also known as **Cybertemz**. A Junior SOC Analyst from Nigeria passionate about threat detection and incident response.
 
 I believe in learning by doing — documenting my lab builds, analysis, and investigations.
 
