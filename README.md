@@ -1,43 +1,49 @@
-# CYBERTEMZ | Junior SOC Analyst
-**DETECT • INVESTIGATE • RESPOND • STAY AHEAD**
+# Eyinmisan Favour | Cybertemz
+### Aspiring SOC Analyst · Cybersecurity Learner
 
-> Turning security data into actionable insights for a safer digital world.
+I'm **Eyinmisan Favour**, a cybersecurity learner from Nigeria focused on developing practical skills in **Security Operations Center (SOC) analysis, security monitoring, and incident response**.
 
-Hello! I'm **Eyinmisan Favour**, also known as **Cybertemz**. A Junior SOC Analyst from Nigeria passionate about threat detection and incident response.
+I learn by building hands-on labs, documenting my process, troubleshooting technical issues, and verifying results. My goal is to grow into a capable SOC analyst who can investigate security events, interpret alerts, and communicate findings clearly.
 
-I believe in learning by doing — documenting my lab builds, analysis, and investigations.
+## Areas of Focus
+- SOC operations and alert triage
+- Security event and Windows log analysis
+- SIEM fundamentals with Wazuh
+- Linux administration and troubleshooting
+- Incident response fundamentals
+- Network analysis and security lab development
 
-### MY CORE FOCUS
-- Threat Detection and Triage
-- Security Event Analysis (Wazuh + Sysmon)
-- Windows Event Log Analysis
-- SOC Lab Building
+## Tools & Technologies
+- **SIEM / Monitoring:** Wazuh
+- **Operating Systems:** Ubuntu Server, Windows, Kali Linux
+- **Virtualization:** VMware Workstation, VirtualBox
+- **Networking & Analysis:** Wireshark
+- **Security Learning:** Sysmon, Windows Event Logs, MITRE ATT&CK
 
-### TOOLS & TECHNOLOGIES
-**SIEM:** WAZUH
-**OS:** UBUNTU | WINDOWS | KALI LINUX
-**Virtualization:** VMWARE | VIRTUALBOX
-**Analysis:** SYSMON | WIRESHARK
+## Featured Project
 
-### 🛡️ FEATURED PROJECT: SOC HOME LAB
-**Objective:** Built a virtual SOC Lab to practice real SOC workflows.
+### [SOC Home Lab](https://github.com/cybertemz/SOC-HOME-LAB)
+A virtual lab project for learning SOC workflows and documenting the setup of a Windows endpoint and Ubuntu-based security monitoring environment.
 
-**Architecture:** `Windows 10 (Victim + Sysmon) -> Ubuntu (Wazuh Server 4.14) -> Wazuh Dashboard`
+**Current work includes:**
+- Building and documenting the virtual lab environment
+- Troubleshooting connectivity between virtual machines
+- Establishing and verifying remote administration
+- Working toward Wazuh agent enrollment, event collection, and alert validation
 
-- Collects Sysmon logs (Process Creation, Network Connection)
-- Detects suspicious activity using Wazuh rules
-- I analyze alerts in the Wazuh Dashboard just like an L1 Analyst
+The project is documented in phases, with completed tasks distinguished from work that still needs verification.
 
-**Repo:** 👉 https://github.com/cybertemz/SOC-HOME-LAB
+## Currently Learning
+- Wazuh agent deployment and event ingestion
+- Windows security telemetry and event investigation
+- Alert triage and incident documentation
+- Detection engineering fundamentals and MITRE ATT&CK mapping
 
-### CURRENTLY LEARNING
-- Wazuh rule tuning & MITRE ATT&CK mapping
-- Incident triage and escalation
-- Threat hunting with Sysmon Event ID 1, 3, 7
-
-### LET'S CONNECT
-- **LinkedIn:** https://www.linkedin.com/in/favour-eyinnisan-b9a6b4047
-- **GitHub:** https://github.com/cybertemz
+## Connect
+- **LinkedIn:** [Favour Eyinmisan](https://www.linkedin.com/in/favour-eyinnisan-b9a6b4047)
+- **GitHub:** [@cybertemz](https://github.com/cybertemz)
 - **Email:** eyinmisanfavour72@gmail.com
 
-*Learning. Investigating. Defending. Building skills today, securing tomorrow.*
+---
+
+*Learn continuously. Verify evidence. Document clearly. Improve security.*
