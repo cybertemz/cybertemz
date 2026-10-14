@@ -1,49 +1,39 @@
-# Eyinmisan Favour | Cybertemz
-### Aspiring SOC Analyst · Cybersecurity Learner
+# Hi, I'm Eyinmisan Favour 👋
+### Cybersecurity learner | Working toward SOC analysis
 
-I'm **Eyinmisan Favour**, a cybersecurity learner from Nigeria focused on developing practical skills in **Security Operations Center (SOC) analysis, security monitoring, and incident response**.
+I'm learning cybersecurity by setting things up myself, making mistakes, troubleshooting them, and writing down what worked. Right now, most of my hands-on practice is around Ubuntu, Windows, remote access, and Wazuh.
 
-I learn by building hands-on labs, documenting my process, troubleshooting technical issues, and verifying results. My goal is to grow into a capable SOC analyst who can investigate security events, interpret alerts, and communicate findings clearly.
+I'm still learning, so I try to be clear about what I've finished and what I'm still figuring out.
 
-## Areas of Focus
-- SOC operations and alert triage
-- Security event and Windows log analysis
-- SIEM fundamentals with Wazuh
-- Linux administration and troubleshooting
-- Incident response fundamentals
-- Network analysis and security lab development
+## What I've been working on
 
-## Tools & Technologies
-- **SIEM / Monitoring:** Wazuh
-- **Operating Systems:** Ubuntu Server, Windows, Kali Linux
-- **Virtualization:** VMware Workstation, VirtualBox
-- **Networking & Analysis:** Wireshark
-- **Security Learning:** Sysmon, Windows Event Logs, MITRE ATT&CK
+- Setting up Ubuntu Server and connecting to it from Windows PowerShell with SSH
+- Creating a Windows 10 virtual machine in VMware
+- Installing the Wazuh agent on my Windows VM
+- Checking the agent service and confirming that the endpoint appears as **Active** in the Wazuh dashboard
+- Keeping notes and screenshots so I can explain the steps later
 
-## Featured Project
+## My main project
 
 ### [SOC Home Lab](https://github.com/cybertemz/SOC-HOME-LAB)
-A virtual lab project for learning SOC workflows and documenting the setup of a Windows endpoint and Ubuntu-based security monitoring environment.
 
-**Current work includes:**
-- Building and documenting the virtual lab environment
-- Troubleshooting connectivity between virtual machines
-- Establishing and verifying remote administration
-- Working toward Wazuh agent enrollment, event collection, and alert validation
+This is where I'm documenting my home lab as I build it. I've worked on the Ubuntu setup, SSH access, the Windows VM, and Wazuh agent deployment. My next learning step is to follow a Windows event through Wazuh and understand how it appears in the dashboard.
 
-The project is documented in phases, with completed tasks distinguished from work that still needs verification.
+## Tools I've used in this lab
 
-## Currently Learning
-- Wazuh agent deployment and event ingestion
-- Windows security telemetry and event investigation
-- Alert triage and incident documentation
-- Detection engineering fundamentals and MITRE ATT&CK mapping
+- **Virtualization:** VMware Workstation
+- **Linux:** Ubuntu Server
+- **Windows:** Windows 10, PowerShell
+- **Remote access:** SSH
+- **Security monitoring:** Wazuh
 
-## Connect
-- **LinkedIn:** [Favour Eyinmisan](https://www.linkedin.com/in/favour-eyinnisan-b9a6b4047)
-- **GitHub:** [@cybertemz](https://github.com/cybertemz)
-- **Email:** eyinmisanfavour72@gmail.com
+I'll add more tools here as I get practical experience with them.
+
+## Find me here
+
+- [LinkedIn](https://www.linkedin.com/in/favour-eyinnisan-b9a6b4047)
+- [GitHub projects](https://github.com/cybertemz?tab=repositories)
 
 ---
 
-*Learn continuously. Verify evidence. Document clearly. Improve security.*
+I'm building my skills one lab at a time. I want my repositories to show the work, the evidence, and what I learned along the way.
