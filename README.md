@@ -1,39 +1,36 @@
 # Hi, I'm Eyinmisan Favour 👋
-### Cybersecurity learner | Working toward SOC analysis
 
-I'm learning cybersecurity by setting things up myself, making mistakes, troubleshooting them, and writing down what worked. Right now, most of my hands-on practice is around Ubuntu, Windows, remote access, and Wazuh.
+I'm learning cybersecurity and working toward a SOC analyst role. Most of my hands-on practice so far has been with Windows, Ubuntu, virtual machines, SSH and Wazuh.
 
-I'm still learning, so I try to be clear about what I've finished and what I'm still figuring out.
+I learn by setting things up, troubleshooting when they do not work, and keeping notes about what I find. I'm still building my skills, so I try to show what I've actually tested rather than list tools I have not used yet.
 
-## What I've been working on
+## What I've been practising
 
-- Setting up Ubuntu Server and connecting to it from Windows PowerShell with SSH
-- Creating a Windows 10 virtual machine in VMware
-- Installing the Wazuh agent on my Windows VM
-- Checking the agent service and confirming that the endpoint appears as **Active** in the Wazuh dashboard
-- Keeping notes and screenshots so I can explain the steps later
+- Setting up Ubuntu in VMware Workstation
+- Connecting to Ubuntu from Windows PowerShell using SSH
+- Creating and working with a Windows virtual machine
+- Installing Wazuh agents and checking their status
+- Using Sysmon to view Windows system activity
+- Documenting lab steps with screenshots and notes
 
 ## My main project
 
-### [SOC Home Lab](https://github.com/cybertemz/SOC-HOME-LAB)
+### [SOC Home Lab — Wazuh, Windows and Ubuntu](https://github.com/cybertemz/SOC-HOME-LAB)
 
-This is where I'm documenting my home lab as I build it. I've worked on the Ubuntu setup, SSH access, the Windows VM, and Wazuh agent deployment. My next learning step is to follow a Windows event through Wazuh and understand how it appears in the dashboard.
+In this project, I'm learning how endpoint activity is collected and reviewed in a SIEM. I've set up the Wazuh environment, connected Windows and Ubuntu agents, and looked at the events Sysmon records on Windows. I'm currently working on verifying a specific Sysmon event in the Wazuh dashboard.
 
-## Tools I've used in this lab
+## Tools I've used
 
-- **Virtualization:** VMware Workstation
-- **Linux:** Ubuntu Server
-- **Windows:** Windows 10, PowerShell
-- **Remote access:** SSH
-- **Security monitoring:** Wazuh
-
-I'll add more tools here as I get practical experience with them.
+- **Virtualisation:** VMware Workstation
+- **Operating systems:** Windows 10 Pro, Ubuntu
+- **Remote access:** SSH, Windows PowerShell
+- **Security monitoring:** Wazuh, Sysmon
 
 ## Find me here
 
 - [LinkedIn](https://www.linkedin.com/in/favour-eyinnisan-b9a6b4047)
-- [GitHub projects](https://github.com/cybertemz?tab=repositories)
+- [My repositories](https://github.com/cybertemz?tab=repositories)
 
 ---
 
-I'm building my skills one lab at a time. I want my repositories to show the work, the evidence, and what I learned along the way.
+I'm building this portfolio one lab at a time and documenting what I learn along the way.
