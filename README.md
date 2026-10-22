@@ -28,7 +28,7 @@ In this project, I'm learning how endpoint activity is collected and reviewed in
 
 ## Find me here
 
-- [LinkedIn](https://www.linkedin.com/in/favour-eyinnisan-b9a6b4047)
+- [LinkedIn](https://www.linkedin.com/in/favour-eyinmisan-8ba96b404)
 - [My repositories](https://github.com/cybertemz?tab=repositories)
 
 ---
